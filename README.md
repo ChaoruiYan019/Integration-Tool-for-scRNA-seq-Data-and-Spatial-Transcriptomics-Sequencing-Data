@@ -18,7 +18,7 @@ Integration Tool for scRNA-seq Data and Spatial Transcriptomics Sequencing Data
       - [STRIDE](#stride)
       - [DSTG](#dstg)
       - [CellDART](#celldart)   
- - [Mapping](#mapping)
+  - [Mapping](#mapping)
       - [MIA](#mia)
       - [AddModuleScore](#addmodulescore)
       - [Tangram](#tangram)
