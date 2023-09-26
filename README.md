@@ -1,5 +1,5 @@
-# Integration-Tool-for-scRNA-seq-Data-and-Spatial-Transcriptomics-Sequencing-Data
-Integration Tool for scRNA-seq Data and Spatial Transcriptomics Sequencing Data
+# Integration-Tools-for-scRNA-seq-Data-and-Spatial-Transcriptomics-Sequencing-Data
+Integration Tools for scRNA-seq Data and Spatial Transcriptomics Sequencing Data
 
 ## Citation
 
