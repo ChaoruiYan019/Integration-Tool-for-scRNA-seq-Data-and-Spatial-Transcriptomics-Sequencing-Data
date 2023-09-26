@@ -8,6 +8,5 @@ Integration methods of scRNA-seq and spatial transcriptomics can be broadly clas
 
 In this article, further categorization is based on the use of Highly Variable Genes (HVGs). Integration of single-cell RNA sequencing data and spatial transcriptomics data typically involves the identification of Highly Variable Genes (HVGs), which are genes exhibiting significant expression differences within cell populations. These differentially expressed genes may play crucial regulatory roles in terms of cell types, states, and other aspects. Classifying integration techniques into two subcategories based on the use of HVGs, as opposed to previous methods, better highlights the selection of integration techniques for achieving either a global or local perspective. This distinction is particularly valuable in scenarios involving large datasets and requiring significant computational resources for HVG computation, as depicted in the "Deconvolution" and "Mapping" sections below.
 
-![image](https://github.com/ChaoruiYan019/Integration-Tool-for-scRNA-seq-Data-and-Spatial-Transcriptomics-Sequencing-Data/blob/main/iamges/Deconvolution.JPG)
-
-![image](https://github.com/ChaoruiYan019/Integration-Tool-for-scRNA-seq-Data-and-Spatial-Transcriptomics-Sequencing-Data/blob/main/iamges/Mappng.JPG)
+![image](https://github.com/ChaoruiYan019/Integration-Tool-for-scRNA-seq-Data-and-Spatial-Transcriptomics-Sequencing-Data/blob/main/images/Deconvolution.JPG)
+![image](https://github.com/ChaoruiYan019/Integration-Tool-for-scRNA-seq-Data-and-Spatial-Transcriptomics-Sequencing-Data/blob/main/images/Mapping.JPG)
